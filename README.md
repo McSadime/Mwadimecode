@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mwadimecode
-- 👀 I’m interested in software development and financial markets
-- 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on creating any web applications, and other python applications.
-- 📫 You can reach me on Twitter @Mwadimecode
+- 👋 Hi, I’m @McSadime
+- 👀 I’m interested in software evelopment and financial markets
+- 🌱 I’m currently learning Html and CSS
+- 💞️ I’m looking to collaborate on creating any web applications and other applications.
+- 📫 You can reach me on Twitter @McSadime
 
 <!---
 Mwadimecode/Mwadimecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
